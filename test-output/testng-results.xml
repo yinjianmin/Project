@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8159" started-at="2019-05-15T04:47:42Z" finished-at="2019-05-15T04:47:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8159" started-at="2019-05-15T04:47:42Z" finished-at="2019-05-15T04:47:50Z">
+      <class name="jar.SignOutTest">
+        <test-method status="PASS" signature="SignOutAPP()[pri:0, instance:jar.SignOutTest@9629756]" name="SignOutAPP" duration-ms="263" started-at="2019-05-15T04:47:49Z" finished-at="2019-05-15T04:47:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignOutAPP -->
+      </class> <!-- jar.SignOutTest -->
+      <class name="jar.LoginTest">
+        <test-method status="PASS" signature="LoginAPP()[pri:0, instance:jar.LoginTest@7f9a81e8]" name="LoginAPP" duration-ms="7845" started-at="2019-05-15T04:47:42Z" finished-at="2019-05-15T04:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPP -->
+      </class> <!-- jar.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
